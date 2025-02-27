@@ -4,11 +4,8 @@
 
 1-liner description of your project
 
-<!-- WHEN APPLICABLE, REMOVE THE COMMENT MARK AND COMPLETE
-This is a response to the Assignment part of the COURSE.
--->
 
-* Authors: [NAME1](http://www.YOURPAGE.xxx), [NAME_n](http://www.YOURPAGE.xxx)
+* Authors: [Geethika](https://github.com/Geethika05-hub/GenAI_PromptEngineering)
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
