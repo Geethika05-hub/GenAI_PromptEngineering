@@ -1,54 +1,41 @@
 ![GenI-Banner](https://github.com/genilab-fau/genial-fau.github.io/blob/8f1a2d3523f879e1082918c7bba19553cb6e7212/images/geni-lab-banner.png?raw=true)
 
-# {title of your research project}
+# Book Details Finder
 
-1-liner description of your project
+An automated system that retrieves the author and key details of any book based on its title.
 
-
-* Authors: [Geethika](https://github.com/Geethika05-hub/GenAI_PromptEngineering)
+* Authors: [Geethika](https://github.com/Geethika05-hub/GenAI_PromptEngineering)  
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
-  
-# Research Question 
+## Research Question
 
-1-liner description of your request (or exploration).. Make it enthusiastically!
+How can we provide comprehensive book details (author, publisher, publication year, etc.) instantly when a user provides the book title?
 
 ## Arguments
 
 #### What is already known about this topic
-
-* you could do {something} to achieve {some result}
-* the challenges of {doing something}
-* the possibility of {doing something else}
-* ...
+* There are existing APIs and databases, such as Google Books, Open Library, and Goodreads, that provide detailed information about books.
+* Challenges include ensuring accurate title matching and handling various title formats across different databases.
+* There’s potential to improve user experience by combining AI with book databases to refine search accuracy and provide personalized recommendations.
 
 #### What this research is exploring
-
-<!-- Free-format; use the topics that are applicable to your exploration  -->
-
-* we employ {some technique}
-* we are building {something}
-* we are exploring {some idea or technology}
+* We are building an intelligent system that retrieves book details from databases and APIs by using a simple book title query.
+* The research focuses on improving the process of book discovery, by integrating multiple data sources and refining the matching mechanism for book titles.
+* We are exploring AI-driven methods to enhance accuracy and speed in retrieving book details.
 
 #### Implications for practice
+* It will be easier for users to instantly find relevant book information by simply providing the book title.
+* This tool will optimize the process of book discovery for readers, researchers, and libraries by saving time and effort.
+* By better understanding user needs, the system can be fine-tuned to provide more relevant and accurate book data.
 
-<!-- Free-format; use the topics that are applicable to your exploration  -->
+## Research Method
 
-* it will be easier to {do something}
-* it will optimize {some process}
-* we will better understand {some process}
-* ...
+We are employing algorithms to query book databases and APIs like Google Books and Open Library, focusing on improving title matching techniques and integrating multiple sources for enriched data retrieval.
 
-# Research Method
+## Results
 
-Describe how you are building this research process.
+Through the research process, we have successfully developed a prototype capable of retrieving key details like the author, publication year, and publisher from a book’s title. The system performs well in recognizing various title formats and has been able to provide accurate book information consistently.
 
-<!-- WHEN APPLICABLE AND AVAILABLE -->
+## Further research
 
-# Results
-
-Describe the results achieved through your research process.
-
-# Further research
-
-Describe what we could do next and propose new ideas for further research.
+Next, we plan to enhance the system’s capabilities by incorporating additional data sources and refining the title-matching algorithms. We also aim to include user-generated content, such as reviews and ratings, and explore personalized book recommendations based on reading preferences.
